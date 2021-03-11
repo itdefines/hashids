@@ -9,6 +9,10 @@
  * @see https://github.com/vinkla/hashids
  */
 
+/*
+*
+*/
+
 namespace Hashids\Math;
 
 class Bc implements MathInterface
